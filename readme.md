@@ -1,9 +1,4 @@
-# PyTorch Projects
-
-
-## Binarry recommendation system with Restricted Boltzman Machine
-
-
+# Light the PyTorch
 
 
 
