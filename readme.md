@@ -1,6 +1,17 @@
 # Light the PyTorch
 
 
+### STEPS:
+
+
+
+    Step 1: Load Dataset
+    Step 2: Make Dataset Iterable
+    Step 3: Create Model Class
+    Step 4: Instantiate Model Class
+    Step 5: Instantiate Loss Class
+    Step 6: Instantiate Optimizer Class
+    Step 7: Train Model
 
 
 
